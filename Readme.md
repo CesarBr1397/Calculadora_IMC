@@ -2,7 +2,7 @@
 Proyecto de Cálculo de IMC
 Descripción del Proyecto
 ¡Hola! Bienvenido a nuestro proyecto de cálculo de Índice de Masa Corporal (IMC). Este programa te ayudará a conocer tu IMC, una medida importante para evaluar tu salud en relación con tu peso y estatura.
-
+ 
 ¿Qué es el IMC?
 El Índice de Masa Corporal (IMC) es una herramienta que relaciona tu peso y estatura, proporcionando una indicación de tu composición corporal. Este proyecto te guiará a través del proceso de cálculo y te dará una clasificación de acuerdo con los estándares de la Organización Mundial de la Salud (OMS).
 
