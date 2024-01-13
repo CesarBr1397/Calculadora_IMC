@@ -1,5 +1,6 @@
-Calculadora de Índice de Masa Corporal (IMC)
-¡Hola, soy [Tu Nombre] y he creado esta Calculadora de IMC!
+<h1>Calculadora de Índice de Masa Corporal (IMC)</h1>
+
+¡Hola, soy Cesar Briseño y he creado esta Calculadora de IMC!
 ¡Bienvenido a mi Calculadora de Índice de Masa Corporal (IMC)! Este programa te ayudará a conocer tu IMC, una medida esencial para entender cómo tu peso se relaciona con tu estatura. Descubrir tu IMC es un paso crucial hacia un estilo de vida más saludable.
 
 Características del Programa
