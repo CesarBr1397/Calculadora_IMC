@@ -18,5 +18,5 @@
 <ol>Observa en pantalla tu nombre, apellidos, edad y tu IMC.</ol>
 <ol>¡Descubre qué tan saludable es tu índice de masa corporal!</ol>
 
-<h3> Construido con</h3>
+<h2> Construido con</h2>
 <p>Python</p>
