@@ -1,56 +1,20 @@
+Calculadora de Índice de Masa Corporal (IMC)
+¡Hola, soy [Tu Nombre] y he creado esta Calculadora de IMC!
+¡Bienvenido a mi Calculadora de Índice de Masa Corporal (IMC)! Este programa te ayudará a conocer tu IMC, una medida esencial para entender cómo tu peso se relaciona con tu estatura. Descubrir tu IMC es un paso crucial hacia un estilo de vida más saludable.
 
-Proyecto de Cálculo de IMC
-Descripción del Proyecto
-¡Hola! Bienvenido a nuestro proyecto de cálculo de Índice de Masa Corporal (IMC). Este programa te ayudará a conocer tu IMC, una medida importante para evaluar tu salud en relación con tu peso y estatura.
- 
-¿Qué es el IMC?
-El Índice de Masa Corporal (IMC) es una herramienta que relaciona tu peso y estatura, proporcionando una indicación de tu composición corporal. Este proyecto te guiará a través del proceso de cálculo y te dará una clasificación de acuerdo con los estándares de la Organización Mundial de la Salud (OMS).
+Características del Programa
+Interactividad Personalizada: El programa te guiará paso a paso para ingresar tu información de manera sencilla.
 
-Cómo Usar el Programa
-Bienvenida: Inicia el programa introduciendo tu nombre, edad, peso en kilogramos y estatura en metros.
+Validación de Datos: No permitirá que ningún campo quede vacío, y se asegurará de que ingreses cifras válidas para la edad, peso y estatura.
 
-Cálculo del IMC: El programa realizará automáticamente el cálculo del IMC utilizando la fórmula estándar: 
-�
-�
-�
-=
-�
-�
-�
-�
-�
-�
-�
-�
-�
-�
-2
-IMC= 
-altura 
-2
- 
-peso
-​
- .
+Cálculo del IMC: Utiliza la fórmula estándar del IMC (Peso / Estatura^2) para calcular tu Índice de Masa Corporal.
 
-Resultados del IMC: Obtendrás una clasificación de acuerdo con los siguientes rangos de la OMS:
+Presentación Atractiva: Despliega en pantalla tu información personal junto con el IMC de una manera clara y atractiva.
 
-0 a 18.9: Peso bajo
-18.5 a 24.99: Peso normal
-25 a 29.99: Sobrepeso
-30 a 34.99: Obesidad leve
-35 a 39.99: Obesidad media
-40 o más: Obesidad mórbida
-Mensaje de Despedida: Agradecemos tu participación y tiempo. ¡Ten un bonito día!
-
-Requisitos
-Este programa fue desarrollado en Python y puede ejecutarse en cualquier entorno que admita este lenguaje.
-
-Cómo Ejecutar el Programa
-Clona o descarga este repositorio.
-Abre el archivo en un entorno de desarrollo compatible con Python.
-Ejecuta el programa y sigue las instrucciones.
-Notas Importantes
-Este programa es una herramienta informativa y no sustituye el asesoramiento profesional de un médico.
-Consulta a un profesional de la salud para obtener una evaluación más completa de tu estado de salud.
-¡Gracias por participar en nuestro proyecto de cálculo de IMC! Esperamos que encuentres esta herramienta útil y educativa.
+Instrucciones de Uso
+Ejecuta el programa.
+Sigue las indicaciones para ingresar tu información.
+Observa en pantalla tu nombre, apellidos, edad y tu IMC.
+¡Descubre qué tan saludable es tu índice de masa corporal!
+Construido con
+Python
